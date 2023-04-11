@@ -16,7 +16,7 @@ This project is my personal website, designed to showcase my skills, interests, 
 To view my website, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/my-username/personal-website.git
+git clone https://github.com/austinvoss/Personal-Website-Pt-II.git
 cd personal-website
 ```
 
