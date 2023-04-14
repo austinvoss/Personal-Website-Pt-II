@@ -14,9 +14,7 @@ body {
 .header {
   background-color: #f1f1f1;
   padding: 20px;
-  position: sticky;
   top: 0;
-  z-index: 100;
 }
 
 .site-brand a {
@@ -61,7 +59,5 @@ body {
 .footer {
   background-color: #f1f1f1;
   padding: 20px;
-  position: sticky;
   bottom: 0;
-  z-index: 100;
 }
