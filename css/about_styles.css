@@ -1,0 +1,12 @@
+.about-content {
+  grid-column: 2 / span 6;
+}
+
+h2 {
+  margin-top: 3rem;
+}
+
+ul, ol  {
+  list-style-position: inside;
+  margin-top: 1rem;
+}

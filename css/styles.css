@@ -72,13 +72,13 @@ body {
   margin-bottom: 33px;
 
   /* comment/uncomment to hide/display grid */
-  display: none;
+  /* display: none; */
 }
 
 /* show grid item borders */
-/* .grid > * {
+.grid > * {
   border: lightgray 1px dashed;
-} */
+}
 
 .visual-aid-item {
   display: flex;
@@ -105,5 +105,8 @@ body {
   }
   .footer {
     padding-bottom: 66px;
+  }
+  .grid.visual-aid {
+    display: none;
   }
 }
