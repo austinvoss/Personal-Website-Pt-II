@@ -67,25 +67,25 @@ body {
 
 /* temporary visual aid */
 
-.grid.visual-aid {
+/* .grid.visual-aid {
   color: lightgray;
-  margin-bottom: 33px;
+  margin-bottom: 33px; */
 
   /* comment/uncomment to hide/display grid */
   /* display: none; */
-}
+/* } */
 
 /* show grid item borders */
-.grid > * {
+/* .grid > * {
   border: lightgray 1px dashed;
-}
+} */
 
-.visual-aid-item {
+/* .visual-aid-item {
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 3% 0;
-}
+} */
 
 /* copyrite */
 
